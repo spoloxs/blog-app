@@ -6,4 +6,4 @@ A new Flutter project.
 
 use the apk file in the apk folder for running the app
 
-or use flutter run after clonning the repo
+or use "flutter run" after clonning the repo
